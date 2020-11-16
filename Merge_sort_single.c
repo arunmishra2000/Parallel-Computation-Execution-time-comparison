@@ -1,9 +1,3 @@
-/*
- * MergesortSingle.c
- * Author: Christian Würthner
- * Description: Merge sort algorithm.
- */
-
 #define SAMPLE_DATA_LENGTH 10000000
 
 #include <stdio.h>
